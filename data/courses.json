@@ -1,0 +1,29 @@
+[
+    {
+      "_id": "01",
+      "category_id": "01",
+      "instructor": {
+        "name": "Abdur Rahman",
+        "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+      },
+      "title": "HTML and CSS Basic",
+      "description": "HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the fundamental technologies for building websites. HTML is used to structure and organize content on the web, while CSS is used to style and layout that content. A basic HTML and CSS course would cover the basic syntax and usage of these languages, including how to create and style web pages, add images and other media, create forms, and more.",
+      "price": "20 USD",
+      "image_url": "https://www.seoclerk.com/pics/543622-1rpQD51499523065.png",
+      "rating": 4.5
+    },
+    {
+      "_id": "02",
+      "category_id": "01",
+      "instructor": {
+        "name": "Abdur Rahman",
+        "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+      },
+      "title": "HTML and CSS Basic",
+      "description": "HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the fundamental technologies for building websites. HTML is used to structure and organize content on the web, while CSS is used to style and layout that content. A basic HTML and CSS course would cover the basic syntax and usage of these languages, including how to create and style web pages, add images and other media, create forms, and more.",
+      "price": "20 USD",
+      "image_url": "https://www.seoclerk.com/pics/543622-1rpQD51499523065.png",
+      "rating": 4.5
+    }
+]
+  
