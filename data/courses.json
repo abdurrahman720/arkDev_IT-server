@@ -6,7 +6,7 @@
         "name": "Abdur Rahman",
         "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
       },
-      "title": "HTML and CSS Basic",
+      "title": "HTML and CSS",
       "description": "HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the fundamental technologies for building websites. HTML is used to structure and organize content on the web, while CSS is used to style and layout that content. A basic HTML and CSS course would cover the basic syntax and usage of these languages, including how to create and style web pages, add images and other media, create forms, and more.",
       "price": "20 USD",
       "image_url": "https://www.seoclerk.com/pics/543622-1rpQD51499523065.png",
@@ -19,11 +19,220 @@
         "name": "Abdur Rahman",
         "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
       },
-      "title": "HTML and CSS Basic",
-      "description": "HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the fundamental technologies for building websites. HTML is used to structure and organize content on the web, while CSS is used to style and layout that content. A basic HTML and CSS course would cover the basic syntax and usage of these languages, including how to create and style web pages, add images and other media, create forms, and more.",
-      "price": "20 USD",
-      "image_url": "https://www.seoclerk.com/pics/543622-1rpQD51499523065.png",
+      "title": "CSS Frameworks: Bootstrap & Tailwind",
+      "description_one": "CSS frameworks are pre-designed sets of CSS styles that can be used as a starting point for creating websites or web applications. They provide a set of standardized styles and layout options that can save time and improve the consistency of design across a project.Two popular CSS frameworks are Bootstrap and Tailwind.Bootstrap is a widely-used, open-source framework that provides a set of pre-designed CSS styles, layout options, and components that can be used to build responsive, mobile-first websites. It includes a grid system for creating layouts, pre-designed styles for buttons, forms, tables, and other common elements, and a number of custom jQuery plugins for adding interactive features to your site.Tailwind CSS is a utility-first CSS framework that provides a set of low-level CSS classes for building custom designs. Instead of providing pre-designed components like Bootstrap, Tailwind allows you to create custom styles by combining a set of utility classes that control layout, typography, color, and other design elements. This allows for greater flexibility and customization, but also requires more time and effort to build out a complete design.A CSS framework course would typically cover the basics of using these frameworks, including how to set up a project, create layouts, style common elements, and customize the design using the available classes and options. It may also cover more advanced topics such as creating custom styles, integrating with other tools and frameworks, and optimizing performance",
+      "price": "25 USD",
+      "image_url": "https://1.bp.blogspot.com/-MxbCWTWVaFY/XplwpTNW26I/AAAAAAAAAso/v1akOhBzpfgZ3tU0dpJIrxDElbDI9Z71QCNcBGAsYHQ/s1600/Kursus%2BDigital%2BMarketing%2BPurwokerto%2B7.png",
       "rating": 4.5
-    }
+    },
+    {
+        "_id": "03",
+        "category_id": "01",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "JavaScript for Web Development",
+        "description": "JavaScript is a programming language that is widely used to build interactive and dynamic websites. It is a key technology for web development, and is often used in conjunction with HTML and CSS to create rich, interactive user experiences. In a JavaScript for web development course, you would learn the fundamental concepts of the language, such as variables, data types, control structures, functions, and objects. You would also learn how to use JavaScript to manipulate the DOM (Document Object Model), make HTTP requests, and work with libraries and frameworks. By the end of the course, you should have a solid understanding of how to use JavaScript to build web applications and be able to create basic scripts and programs for the web.",
+        "price": "30 USD",
+        "image_url": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png",
+        "rating": 4.5
+      },
+    {
+        "_id": "04",
+        "category_id": "01",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "ReactJs for Fronted",
+        "description": "React is a popular JavaScript library for building user interfaces, particularly for web applications. It allows developers to create reusable components that can be easily combined to build complex and interactive user interfaces. In a React basic course, you would learn how to use React to build and structure your web application, how to work with components and props, how to handle state and events, and how to integrate with other tools and libraries. You would also learn about the key concepts and best practices of using React, such as JSX syntax, virtual DOM, and functional programming. By the end of the course, you should be able to build a simple web application using React and have a solid foundation for further learning and development with this powerful library.",
+        "price": "40 USD",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsgBkIXr--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/aj976wx7kjm0m5lkfrui.png",
+        "rating": 4.7
+      },
+      
+      {
+        "_id": "05",
+        "category_id": "01",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Database management: MongoDB",
+        "description": "MongoDB is a popular, open-source NoSQL database that is designed for storing and querying large amounts of data in a flexible, JSON-like format. In a MongoDB course, you would learn how to use MongoDB to store and retrieve data, how to design and maintain a MongoDB database, and how to perform common database operations such as CRUD (create, read, update, delete) and indexing. You would also learn about the key features and capabilities of MongoDB, such as its support for horizontal scaling, its ability to handle large and complex data structures, and its integrations with other tools and frameworks. By the end of the course, you should be able to use MongoDB effectively in your own projects and have a solid foundation for further learning and development with this powerful database.",
+        "price": "40 USD",
+        "image_url": "https://gtechbooster.com/media/2020/02/mongodb-gets-graphql-support-1536x768.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "06",
+        "category_id": "01",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Backend with NodeJS",
+        "description": "Node.js is a JavaScript runtime that allows you to run JavaScript on the server side, enabling you to build backend applications with JavaScript. In a backend with Node.js course, you would learn how to use Node.js and related tools and libraries to build and deploy server-side applications. This could include topics such as setting up a Node.js development environment, working with Node.js modules and packages, building APIs and web servers, working with databases, and deploying applications to the cloud. The course may also cover more advanced topics such as security, performance, and scalability. By the end of the course, you should have a good understanding of how to build backend applications with Node.js and be able to create and deploy your own applications using this powerful runtime.",
+        "price": "50 USD",
+        "image_url": "https://miro.medium.com/max/1400/1*aESgM2aKOFoDRvAAm3jx7g.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "07",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Adobe XD Professional",
+        "description": "Adobe XD is a powerful design and prototyping tool for creating and testing user experiences for websites, mobile apps, and other digital products. In an Adobe XD course, you would learn how to use XD's interface and tools to create and refine wireframes, mockups, and prototypes for your projects. You would learn how to design and layout your pages, how to work with typography, color, and other design elements, and how to add interactivity and animations to your prototypes. You would also learn about the key features and capabilities of XD, such as the Repeat Grid tool, the Asset Library, and the Design Specs export. By the end of the course, you should be able to create professional-quality designs and prototypes with XD and have a solid foundation for further learning and development with this powerful tool.",
+        "price": "50 USD",
+        "image_url": "https://crackelive.net/wp-content/uploads/2021/08/Adobe-XD-CC-Crack-42.1.22-With-License-Key-Full-Version.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "08",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Figma UI/UX Professional",
+        "description": "Figma is a popular design tool that allows users to create and collaborate on user interface (UI) and user experience (UX) designs for web and mobile applications. In a Figma UI/UX design course, you would learn how to use Figma's powerful design tools and features to create high-quality designs for various platforms and devices. You would also learn about key concepts in UI and UX design, such as layout, typography, color, and user flow, and how to apply these principles to create effective and user-friendly designs. The course would cover topics such as creating wireframes, prototypes, and final designs, collaborating with other designers and stakeholders, and exporting and presenting your designs. By the end of the course, you should have the skills and knowledge to create professional-quality UI/UX designs using Figma.",
+        "price": "50 USD",
+        "image_url": "https://spin.atomicobject.com/wp-content/uploads/figma-logo.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "09",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Axure UI/UX Design",
+        "description": "Axure is a popular software tool for creating wireframes, prototypes, and interactive diagrams for user experience (UX) design. In an Axure course for UI/UX design, you would learn how to use Axure to create and design user interfaces for web and mobile applications. This would include learning how to create wireframes and prototypes using Axure's drag-and-drop interface, how to add interactivity and animations to your designs, and how to use Axure to collaborate with other designers and developers. You would also learn about the principles of UX design and how to use Axure to create user flows, user journeys, and other design artifacts. By the end of the course, you should have a good understanding of how to use Axure to create professional-quality UX designs and have the skills to apply this knowledge to your own design projects.",
+        "price": "50 USD",
+        "image_url": "https://i.pinimg.com/originals/ea/77/90/ea77903dab9e84131b286ca67f26cf34.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "10",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Canva UI/UX Design",
+        "description": "Canva is a popular online graphic design platform that allows users to create professional-quality designs for a wide range of purposes, from social media posts and marketing materials to presentations and documents. In a Canva UI/UX design course, you would learn how to use Canva to create visually appealing and effective designs that meet the needs of your target audience. You would learn about the principles of good UI/UX design, such as usability, accessibility, and aesthetics, and how to apply these principles to your designs. You would also learn about the various features and tools available in Canva, such as templates, images, text styles, and more, and how to use them to create effective and professional-looking designs. By the end of the course, you should be able to create high-quality designs using Canva and have a good understanding of the key concepts and best practices of UI/UX design.",
+        "price": "50 USD",
+        "image_url": "https://ja-jp.learn.canva.com/wp-content/uploads/sites/10/2019/11/learn_header_1122.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "11",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Pixso UI/UX Design",
+        "description": "UI/UX design is the process of creating the look, feel, and interactivity of a product or service, with a focus on the user's experience. A Pixso UI/UX design course would teach you the principles and practices of designing effective and engaging user interfaces and user experiences, from research and planning to prototyping and testing. You would learn about user-centered design techniques, usability heuristics, and visual design principles, as well as tools and methods for creating wireframes, mockups, and prototypes. The course would also cover topics such as user research, usability testing, and design systems, as well as how to work with clients and stakeholders to create designs that meet their needs and goals. By the end of the course, you should be able to design and create user-friendly and visually appealing interfaces for web and mobile applications.",
+        "price": "50 USD",
+        "image_url": "https://cms.pixso.net/images/home/format-pix.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "12",
+        "category_id": "02",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Sketch UI/UX Design",
+        "description": "Sketch is a popular vector graphics editor and prototyping tool for designing user interfaces and user experiences. In a Sketch UI/UX design course, you would learn how to use Sketch to create wireframes, mockups, and prototypes of web and mobile applications. You would learn how to use Sketch's powerful vector graphics tools and prototyping features to create high-quality designs that can be easily shared and tested with stakeholders. You would also learn about best practices for user interface design and user-centered design, including usability testing, user research, and design principles. By the end of the course, you should be able to use Sketch to create professional-quality designs that effectively communicate your ideas and solutions to your users.",
+        "price": "50 USD",
+        "image_url": "https://miro.medium.com/max/2000/1*x7VF-u3XSfDSUD-zsnoKMA.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "13",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Facebook Marketing and Ads Professional",
+        "description": "Facebook Marketing and Ads is a course that teaches students how to use Facebook and its advertising platform to promote businesses, products, or services. In this course, you would learn how to create and optimize a Facebook business page, how to create and target ads using Facebook's ad tools, and how to measure and analyze the performance of your campaigns. You would also learn about different ad formats, targeting options, and bidding strategies, as well as best practices for creating and managing successful ad campaigns on Facebook. By the end of the course, you should be able to effectively use Facebook to reach and engage your target audience, and measure and improve the return on investment of your advertising efforts.",
+        "price": "30 USD",
+        "image_url": "https://secudemy.com/wp-content/uploads/2020/12/cover-fbadmag.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "14",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Instagram Marketing and Ads Professional",
+        "description": "Instagram marketing and ads course is designed to help businesses and individuals learn how to effectively use Instagram as a marketing and advertising platform. In this course, you will learn how to create an Instagram marketing strategy, how to create engaging content for your Instagram profile, how to use Instagram features such as hashtags and Instagram Stories, and how to use Instagram's paid advertising features to reach and target specific audiences. You will also learn about best practices for measuring and analyzing the performance of your Instagram marketing efforts, and how to use Instagram analytics tools to track the success of your campaigns. Overall, this course will provide you with the skills and knowledge you need to effectively use Instagram as a marketing and advertising platform to reach and engage your target audience.",
+        "price": "50 USD",
+        "image_url": "https://adityaaggarwal.marketing/wp-content/uploads/2022/10/Top-Instagram-marketing-stats.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "15",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Twitter Marketing and Ads Professional",
+        "description": "Twitter Marketing and Ads is a course that teaches you how to use Twitter's advertising platform to promote your business, brand, or products. You will learn how to create and manage Twitter ad campaigns, targeting specific audiences, and measuring the effectiveness of your ads. You will also learn about the different types of Twitter ads, such as promoted tweets, promoted accounts, and promoted trends, and how to use them to achieve your marketing goals. The course will cover best practices for creating engaging and effective ads, as well as strategies for maximizing the reach and impact of your campaigns. By the end of the course, you should have a good understanding of how to use Twitter's advertising platform to effectively reach and engage your target audience.",
+        "price": "50 USD",
+        "image_url": "https://www.techlofy.com/wp-content/uploads/2020/06/Twitter-Marketing.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "16",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "LinkedIn Marketing and Ads Professional",
+        "description": "LinkedIn is a professional networking platform with millions of users around the world. It is also a powerful marketing and advertising tool, with a range of features and options for targeting specific audiences and promoting products or services. In a LinkedIn Marketing and Ads course, you would learn how to use LinkedIn to effectively market your business or brand, create and manage ads, measure and analyze your results, and optimize your campaigns for maximum impact. You would also learn about the various ad formats and targeting options available on LinkedIn, as well as best practices for creating and managing ad campaigns, maximizing return on investment, and maximizing the reach and engagement of your ads. By the end of the course, you should have a solid understanding of how to use LinkedIn to effectively market your business and reach your target audience.",
+        "price": "50 USD",
+        "image_url": "https://www.kozmadigital.com/wp-content/uploads/2021/08/brandup-linkedin-marketing-solutions-ads-1024x818-1.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "17",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Pintrest Marketing and Ads Professional",
+        "description": "Pinterest is a visual search engine and social media platform that allows users to discover, save, and share ideas and inspiration for their personal and professional interests. As a business, Pinterest can be a valuable marketing and advertising tool to reach and engage with a targeted audience of potential customers. In a Pinterest Marketing and Ads course, you would learn how to create and optimize a business account on Pinterest, how to create and promote pins and boards, how to use Pinterest analytics and insights, and how to run and measure the effectiveness of Pinterest ads. You would also learn about the key trends, best practices, and strategies for using Pinterest for marketing and advertising, such as visual storytelling, content marketing, and influencer partnerships. By the end of the course, you should be able to effectively use Pinterest to promote your business, drive traffic and sales, and grow your brand presence on this unique and influential platform.",
+        "price": "50 USD",
+        "image_url": "https://logos-world.net/wp-content/uploads/2020/09/Pinterest-Logo-2011-present.png",
+        "rating": 4.5
+      },
+      {
+        "_id": "18",
+        "category_id": "03",
+        "instructor": {
+          "name": "Abdur Rahman",
+          "in_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpg"
+        },
+        "title": "Google Marketing and Ads Professional",
+        "description": "Google Marketing and Ads is a course that teaches you how to effectively market your products or services on Google platforms, such as Google Ads, Google My Business, and Google Analytics. In this course, you will learn how to create and manage successful online advertising campaigns on Google, targeting the right audience and measuring the results. You will also learn how to optimize your website for search engines and improve your online presence through Google My Business. Additionally, you will learn how to use Google Analytics to track and analyze the performance of your marketing efforts, and how to use this data to make informed decisions and improve your results. Overall, this course will provide you with the skills and knowledge you need to effectively market your business on Google and reach your target audience.",
+        "price": "50 USD",
+        "image_url": "https://www.nexd.com/wp-content/uploads/2019/04/google-ad-products-overview.png",
+        "rating": 4.5
+      }
 ]
   
