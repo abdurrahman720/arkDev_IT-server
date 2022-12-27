@@ -1,14 +1,20 @@
 [
     {
       "id": "01",
-      "name": "Web Development"
+      "name": "Web Development",
+      "description": "Want to be a good FullStack web developer? We have the best MERN courses for you!",
+      "image": "https://img2.teletype.in/files/91/84/918450d5-af68-4a23-a2bd-0327631b0fd9.png"
     },
     {
       "id": "02",
-      "name": "UI/UX Design"
+      "name": "UI/UX Design",
+      "description": "A variety of UI/UX design courses for you to be a great graphics designer",
+      "image": "https://supersourcing.com/blog/wp-content/uploads/2020/06/UI-and-UX-of-a-Dating-App.png"
     },
     {
       "id": "03",
-      "name": "Digital Marketing"
+      "name": "Digital Marketing",
+      "description": "Grow your own business or work for big brands! These courses will lead you to your goal!",
+      "image": "https://www.pcnetworked.com/wp-content/uploads/2018/05/computer-it-support-and-cyber-security-fort-lauderdale.jpg"
     }
   ]
